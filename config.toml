@@ -1,6 +1,6 @@
 # config.toml - Hugo configuration file example
 
-baseURL = "https://OnlineITD.github.io/weeknotes/"
+baseURL = "https://daan.it.com/"
 languageCode = "nl"
 title = "Jouw Website"
   # Navigation links
