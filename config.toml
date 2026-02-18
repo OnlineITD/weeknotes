@@ -1,0 +1,9 @@
+# config.toml - Hugo configuration file example
+
+baseURL = "https://OnlineITD.github.io/weeknotes/"
+languageCode = "nl"
+title = "Jouw Website"
+  # Navigation links
+  [[params.navigation]]
+    name = 'Weeknotes'
+    url = "/weeknotes"
