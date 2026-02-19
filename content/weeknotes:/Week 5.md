@@ -17,8 +17,8 @@ Dat gaat overwegend goed, maar het voelt soms nog als balanceren tussen twee cul
 ![getekend plaatje van balanceren tussen praten en maken](/images/pratenmaken2.png)
 
 ## Een eerste beeld van wendbare wetsuitvoering (rules as code)
-Dat balanceren doe ik in het veld van wendbare wetsuitvoering 
-WWU is niet nieuw, tegelijkertijd lijkt er een soort hernieuwde interesse van buitenaf in het vakgebied.
+Dat balanceren doe ik in de context van wendbare wetsuitvoering.  
+Dat onderwerp is verre van nieuw. Tegelijkertijd lijkt er een soort hernieuwde interesse van buitenaf in het vakgebied.
 Komende weken schrijf ik in korte stukjes uit waar het bij het brede veld van wendbare wetsuitvoering over gaat.  
 
 ### Crash course Wendbare wetsuitvoering episode 1
